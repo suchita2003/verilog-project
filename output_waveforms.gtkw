@@ -1,0 +1,24 @@
+[*]
+[*] GTKWave Analyzer v3.3.108 (w)1999-2020 BSI
+[*] Tue Mar 19 13:28:23 2024
+[*]
+[dumpfile] "C:\Users\suchi\OneDrive\Desktop\Verilog\vending_machine.vcd"
+[dumpfile_mtime] "Tue Mar 19 13:24:17 2024"
+[dumpfile_size] 923
+[savefile] "C:\Users\suchi\OneDrive\Desktop\Verilog\output_waveforms.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-4.395929 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 288
+[signals_width] 140
+[sst_expanded] 1
+[sst_vpaned_height] 155
+@28
+vending_machine_tb.change[1:0]
+vending_machine_tb.clk
+vending_machine_tb.in[1:0]
+vending_machine_tb.out
+vending_machine_tb.rst
+[pattern_trace] 1
+[pattern_trace] 0
